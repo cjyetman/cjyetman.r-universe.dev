@@ -1,0 +1,14 @@
+[
+  {
+    "package": "network.r2d3",
+    "url": "https://github.com/cjyetman/network.r2d3"
+  },
+  {
+    "package" : "memberstates",
+    "url" : "https://github.com/cjyetman/memberstates"
+  },
+  {
+    "package": "safe.run",
+    "url": "https://github.com/cjyetman/safe.run"
+  }
+]
