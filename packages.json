@@ -4,6 +4,10 @@
     "url": "https://github.com/cjyetman/network.r2d3"
   },
   {
+    "package" : "r2dii.interactive",
+    "url" : "https://github.com/2DegreesInvesting/r2dii.interactive"
+  },
+  {
     "package" : "memberstates",
     "url" : "https://github.com/cjyetman/memberstates"
   },
