@@ -14,5 +14,21 @@
   {
     "package": "safe.run",
     "url": "https://github.com/cjyetman/safe.run"
+  },
+  {
+    "package": "countrycode",
+    "url": "https://github.com/vincentarelbundock/countrycode"
+  },
+  {
+    "package": "networkD3",
+    "url": "https://github.com/christophergandrud/networkD3"
+  },
+  {
+    "package": "sunburstR",
+    "url": "https://github.com/timelyportfolio/sunburstR"
+  },
+  {
+    "package": "imfr",
+    "url": "https://github.com/christophergandrud/imfr"
   }
 ]
